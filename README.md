@@ -15,7 +15,7 @@
 - 📄 View my resume:  
   **[Resume](https://drive.google.com/file/d/19QdZE4BPwpRlg1ppH-iyVK8c9We9lIK9/view)**
 
-- ⚡ Fun fact: **I’m funny 😄**
+- ⚡ Fun fact: **I love learning and improving myself 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
