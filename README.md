@@ -17,8 +17,9 @@
 - 🚀 Full Stack Developer (MERN + Spring Boot)
 - 🔧 Building scalable APIs & backend systems
 - 🧠 Strong in DSA & backend architecture
-- ⚙️ Experience with **JWT, Kafka, Redis, Docker**
-- 📍 Open to internships / entry-level opportunities
+- ⚙️ Experience with **JWT, Redis, Docker**
+  - 💼 Currently working as a Software Developer Intern  
+- 📍 Open to full-time opportunities (Backend / Full Stack Roles)
 
 ###
 
@@ -68,7 +69,7 @@
 - **Languages:** Java, JavaScript, Python, C  
 - **Frameworks:** Spring Boot, React.js, Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Docker, Kafka, Redis  
+- **Tools:** Git, GitHub, Docker, Redis  
 
 ###
 
@@ -82,19 +83,16 @@
 
 ### 📌 Projects
 
-- 🏥 **Healthcare Management System**  
-  → Doctor consultation, diagnostics & admission (Spring Boot, MongoDB, JWT)
+- 🛒 **E-Commerce Application**  
+  → Full Stack application using **Java Spring Boot + React**  
+  → Features: Authentication, product management, cart & order system  
 
-- 📅 **Appointment Booking System**  
-  → Role-based authentication & scheduling system
+- 📝 **Full Stack Notes Application**  
+  → Built using **Spring Boot**  
+  → Features: Create, update, delete notes with secure authentication    
 
 - 📧 **Email Assistant AI Generator**  
-  → AI-based automated email generation
-
-- 📲 **Bulk WhatsApp Messaging System**  
-  → WhatsApp Cloud API + CSV + MySQL integration
-
-###
+  → AI-based automated email generation  
 
 ### 🌐 Connect with Me
 
