@@ -1,62 +1,129 @@
-<h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
+<h2 align="left">Hi 👋! I'm Mohd Kaif — Full Stack Developer (MERN + Java Spring Boot) from India 🇮🇳</h2>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+###
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kaiff-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="kaiff-ansari" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiff-ansari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiff-ansari&layout=compact&langs_count=6&theme=dracula" height="150" />
+</div>
 
-- 🔭 I’m currently working on my full stack project  
-  **[E-Commerce Application](https://github.com/kaiff-ansari/Ecommerce-Application)**
+###
 
-- 📫 How to reach me: **mohdkaif8672@gmail.com**
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📄 View my resume:  
-  **[Resume](https://drive.google.com/file/d/19QdZE4BPwpRlg1ppH-iyVK8c9We9lIK9/view)**
+###
 
-- ⚡ Fun fact: **I love learning and improving myself 😊**
+### 💻 About Me
+- 🚀 Full Stack Developer (MERN + Spring Boot)
+- 🔧 Building scalable APIs & backend systems
+- 🧠 Strong in DSA & backend architecture
+- ⚙️ Experience with **JWT, Kafka, Redis, Docker**
+- 📍 Open to internships / entry-level opportunities
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+###
+
+### 🚀 Tech Stack
+
+<div align="left">
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express.js" />
+
+  <br/><br/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS" />
+
+  <br/><br/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL" />
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
+
+</div>
+
+###
+
+### 🧠 Skills Summary
+- **Languages:** Java, JavaScript, Python, C  
+- **Frameworks:** Spring Boot, React.js, Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Docker, Kafka, Redis  
+
+###
+
+### 🔥 Core Expertise
+- Backend Development (Spring Boot, Node.js)
+- REST API Design & Integration
+- Authentication (JWT, Spring Security)
+- Database Design (SQL + NoSQL)
+
+###
+
+### 📌 Projects
+
+- 🏥 **Healthcare Management System**  
+  → Doctor consultation, diagnostics & admission (Spring Boot, MongoDB, JWT)
+
+- 📅 **Appointment Booking System**  
+  → Role-based authentication & scheduling system
+
+- 📧 **Email Assistant AI Generator**  
+  → AI-based automated email generation
+
+- 📲 **Bulk WhatsApp Messaging System**  
+  → WhatsApp Cloud API + CSV + MySQL integration
+
+###
+
+### 🌐 Connect with Me
+
+<div align="left">
+
 <a href="https://linkedin.com/in/mohd-kaiff" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/__mohd__kaiff" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/mohd_kaiff" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+
+<a href="https://leetcode.com/mohd_kaiff/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.topcoder.com/members/110033" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
+
+<a href="mailto:mohdkaif8672@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-</p>
+</div>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiff-ansari&show_icons=true&locale=en&layout=compact" />
-</p>
+###
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiff-ansari&show_icons=true&locale=en" />
-</p>
+<br clear="both">
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiff-ansari" />
-</p>
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/kaiff-ansari/kaiff-ansari/output/snake.svg" alt="Snake animation" />
+
+###
