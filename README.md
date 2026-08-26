@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Mohd Kaif — Full Stack Developer (MERN + Java Spring Boot) from India 🇮🇳</h2>
+<h2 align="center">Hi 👋! I'm Mohd Kaif — Full Stack Developer (MERN + Java Spring Boot) from India </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaiff-ansari&show_icons=true&theme=dracula" height="150"/>
