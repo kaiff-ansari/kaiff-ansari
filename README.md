@@ -14,7 +14,7 @@
 - 🔧 Building scalable APIs & backend systems
 - 🧠 Strong in DSA & backend architecture
 - ⚙️ Experience with **JWT, Redis, Docker**
-- 💼 Software Developer Intern  
+- 💼 Full Stack Developer
 - 📍 Open to full-time opportunities (Backend / Full Stack)
 
 ---
