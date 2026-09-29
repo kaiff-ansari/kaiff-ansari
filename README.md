@@ -1,10 +1,5 @@
 <h2 align="center">Hi 👋! I'm Mohd Kaif — Full Stack Developer (MERN + Java Spring Boot) from India </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiff-ansari&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiff-ansari&layout=compact&theme=dracula" height="150"/>
-</div>
-
 ---
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
